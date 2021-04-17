@@ -8,4 +8,8 @@
 
 #### Step 3: npm install
 
+#### Step 4: Enter your Google map key in MapContainer.js component
+
+#### Search googleMapsApiKey keyword and add key
+
 #### Step 4:npm start
