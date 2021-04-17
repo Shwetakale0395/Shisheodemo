@@ -1,1 +1,11 @@
 # Shisheodemo
+
+### Follow the below steps to run code on user dekstop
+
+#### Step 1: git clone https://github.com/Shwetakale0395/Shisheodemo.git
+
+#### Step 2: cd Shisheodemo
+
+#### Step 3: npm install
+
+#### Step 4:npm start
