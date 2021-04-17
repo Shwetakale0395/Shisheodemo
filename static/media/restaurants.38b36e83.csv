@@ -1,0 +1,7 @@
+RestaurantID,RestaurantName,Address,Cost,latitude,longitude,DeliveryTime,AggregateRating,PaymentMethod,Off,restoimg
+1,Swiss Butter,"Arebic,Chinese",10,25.1176,55.201,25,4.5,Cash-on-delivery,25,https://shisheo.s3.me-south-1.amazonaws.com/restaurants/main/6/7/67060393_2418437654910482_7927149957734203392_n-1588720812-1590311913.png
+2,Sheraton Mall,"Arebic,Chinese,Indian",40,25.1196,55.20348,15,3.5,Cash-on-delivery,12,https://material-ui.com/static/images/cards/paella.jpg
+3,Broadway Hotel,"Seafood, Asian",34,25.1191,55.20052,40,4,Cash-on-delivery,15,https://shisheo.s3.me-south-1.amazonaws.com/restaurants/main/1/0/10366035_829782197062471_1826351537027454050_n-1594822879.jpg
+4,Kempinski  Hotel,"Japanese, Sushi",56,25.1186,55.19718,30,1,Cash-on-delivery,20,https://shisheo.s3.me-south-1.amazonaws.com/restaurants/gallery/6/0/60489580_470190360406976_7231173446837731328_n-1584875627.jpg
+5,Courtyard Marriott,"Japanese, Korean",20,25.1148,55.1972,35,2,Cash-on-delivery,10,https://shisheo.s3.me-south-1.amazonaws.com/restaurants/gallery/6/f/6fa7efe1820c653ad485cdf99dd3b7d7---copy-1587302586.jpg
+6,DoubleTree by Hilton,"Japanese, Korean",44,25.1146,55.201,20,3.5,Cash-on-delivery,20,https://shisheo.s3.me-south-1.amazonaws.com/restaurants/gallery/f/7/f790492534fa91dc0b1da6fd2f3c58a9-1587324430.png

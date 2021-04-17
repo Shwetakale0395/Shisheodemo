@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shisheodemo/static/css/main.6e92618e.chunk.css",
+    "main.js": "/Shisheodemo/static/js/main.49817a81.chunk.js",
+    "main.js.map": "/Shisheodemo/static/js/main.49817a81.chunk.js.map",
+    "runtime-main.js": "/Shisheodemo/static/js/runtime-main.446f88eb.js",
+    "runtime-main.js.map": "/Shisheodemo/static/js/runtime-main.446f88eb.js.map",
+    "static/js/2.ca149ff2.chunk.js": "/Shisheodemo/static/js/2.ca149ff2.chunk.js",
+    "static/js/2.ca149ff2.chunk.js.map": "/Shisheodemo/static/js/2.ca149ff2.chunk.js.map",
+    "static/js/3.bc475f84.chunk.js": "/Shisheodemo/static/js/3.bc475f84.chunk.js",
+    "static/js/3.bc475f84.chunk.js.map": "/Shisheodemo/static/js/3.bc475f84.chunk.js.map",
+    "index.html": "/Shisheodemo/index.html",
+    "static/css/main.6e92618e.chunk.css.map": "/Shisheodemo/static/css/main.6e92618e.chunk.css.map",
+    "static/js/2.ca149ff2.chunk.js.LICENSE.txt": "/Shisheodemo/static/js/2.ca149ff2.chunk.js.LICENSE.txt",
+    "static/media/mappin.4586f446.svg": "/Shisheodemo/static/media/mappin.4586f446.svg",
+    "static/media/offer.21b1a04a.svg": "/Shisheodemo/static/media/offer.21b1a04a.svg",
+    "static/media/restaurants.38b36e83.csv": "/Shisheodemo/static/media/restaurants.38b36e83.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.446f88eb.js",
+    "static/js/2.ca149ff2.chunk.js",
+    "static/css/main.6e92618e.chunk.css",
+    "static/js/main.49817a81.chunk.js"
+  ]
+}
