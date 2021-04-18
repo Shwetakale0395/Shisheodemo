@@ -1,0 +1,25 @@
+.searchbox {
+  margin-bottom: 15px;
+}
+
+body {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+.footer {
+  width: 100%;
+  position: "fixed";
+  bottom: 0;
+}
+.MuiInputBase-root {
+  background-color: rgb(232, 240, 254);
+}
+.divcontainer {
+  padding: 32px;
+}
+.divmap {
+  padding: 7px;
+}
